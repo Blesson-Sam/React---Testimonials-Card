@@ -8,12 +8,12 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone 
+    git clone https://github.com/Blesson-Sam/React---Testimonials-Card
     ```
 
 1. Install the required packages.
     ```sh
-    cd react-tailwind-css-starter-pack
+    cd React---Testimonials-Card
     npm install
     ```
 
